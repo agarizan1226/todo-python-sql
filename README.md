@@ -19,4 +19,5 @@ Die Aufgaben werden in einer SQLite-Datenbank gespeichert.
 ## Start
 
 ```bash
+cd todo-python-sql
 python3 main.py
